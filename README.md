@@ -1,4 +1,4 @@
-## Introducing Myself
+## Introducing Myself 👋</h1>
 
 ![Header](https://github.com/Amir-Ferdosinia/Amir-Ferdosinia/blob/52ca8166c412b38fb94abdd97b3a6205026071ec/Amir%20Ferdosinia.png)
 
