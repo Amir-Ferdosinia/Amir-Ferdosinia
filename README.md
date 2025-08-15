@@ -1,6 +1,6 @@
 ## Introducing Myself
 
-![Brown and Gray Simple Personal LinkedIn Banner](https://github.com/Amir-Ferdosinia/Amir-Ferdosinia/blob/52ca8166c412b38fb94abdd97b3a6205026071ec/Amir%20Ferdosinia.png)
+![Header](https://github.com/Amir-Ferdosinia/Amir-Ferdosinia/blob/52ca8166c412b38fb94abdd97b3a6205026071ec/Amir%20Ferdosinia.png)
 
 Hello, I'm Amir. I'm a data analyst with a background in Industrial (Systems) Engineering and a focus on systems optimisation and leveraging data science to uncover insights, build predictive models, and support strategic decision-making. Over the years, I’ve led and contributed to a variety of projects, both in professional environments and academic settings, across sectors such as FMCG, marketing and advertising, and non-profits, leveraging large and complex datasets to provide actionable insights that help organisations make data-driven decisions and meet their KPIs.
 
