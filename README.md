@@ -21,8 +21,8 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Amir-
 ### 🛠️ Tools
 
 - Language: SQL, Python
-- Database: Google BigQuery, MySQL
 - Visualization: Power BI
+- Cloud Platforms: Azure, Databricks
 
 ### 👋🏻 Connect with Me
 
