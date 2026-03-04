@@ -6,7 +6,7 @@ Hello, I'm Amir. Data Engineer with a Master’s in Systems Optimisation & Data 
 
 - ETL & Data Pipeline Development
 - SQL Server | Data Warehousing & BI
-- Python for Data Engineering
+- Python for Data Engineering & ML
 - Power BI Dashboarding & Reporting
 - End-to-End Data Solutions
 
